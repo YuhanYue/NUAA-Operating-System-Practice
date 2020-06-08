@@ -9,6 +9,6 @@ Courses information is on https://www.linuxmooc.com which is a great and concise
 ### myecho
 To complete the function of echo(Linux).
 
-gcc -o myecho.o myecho.c
-./myecho a b c 
+gcc -o myecho.o myecho.c</br>
+./myecho a b c</br>
 a b c 
